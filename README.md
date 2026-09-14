@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/itzprincephutela/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/itzprincephutela/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itzprincephutela/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itzprincephutela/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/itzprincephutela/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
